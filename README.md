@@ -1,12 +1,38 @@
-# React + Vite
+# ☕ Coffee-Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Coffee-Shop** is a simple and elegant online coffee store built with React and Tailwind CSS.  
+It provides a clean and responsive user interface for browsing and purchasing coffee products.
 
-Currently, two official plugins are available:
+> ⚠️ **Note:** This is a front-end only project and currently under development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🛍️ Browse a variety of coffee products  
+- 🖼️ Beautiful product cards with images and prices  
+- 📱 Fully responsive design (mobile-friendly)  
+- ⚡ Built with reusable React components  
+- 🎨 Styled using Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- **Library:** React (for building the user interface)  
+- **Styling:** Tailwind CSS  
+- **Package Manager:** npm  
+- **Build Tool:** Vite or Create React App (if different)
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+# 1. Install dependencies
+npm install
+
+# 2. Start the development server
+npm run dev
+
